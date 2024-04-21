@@ -1,0 +1,170 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Venom",
+      "poster": "./assets/media/Venom_(2018_film)_poster.png",
+      "trailerURL": "https://www.youtube.com/watch?v=u9Mv98Gr5pY",
+      "genre": "action",
+      "description": "While trying to take down Carlton, the CEO of Life Foundation, Eddie, a journalist, investigates experiments of human trials. Unwittingly, he gets merged with a symbiotic alien with lethal abilities.",
+      "director": "Ruben Fleischer",
+      "ageRestriction": "13",
+      "country": "USA"
+    },
+    {
+      "title": "Lucy 122",
+      "genre": "science-fiction",
+      "country": "USA",
+      "director": "Luc Besson",
+      "ageRestriction": "12",
+      "poster": "./assets/media/MV5BODcxMzY3ODY1NF5BMl5BanBnXkFtZTgwNzg1NDY4MTE@._V1_.jpg",
+      "trailerURL": "https://www.youtube.com/watch?v=bN7ksFEVO9U",
+      "description": "When Lucy unknowingly becomes part of a drug trade, sinister individuals insert medications in her body. They then give her unique abilities, which she uses to gain vengeance against her perpetrators.",
+      "id": "2"
+    },
+    {
+      "title": "Believe Me ",
+      "genre": "drama-detective",
+      "country": "USA",
+      "director": "Jim Donovan",
+      "ageRestriction": "13",
+      "poster": "./assets/media/MV5BZTk4MzY1M2YtYzhlYy00ODYzLWJlNGUtZDk1MmVkNGU3NzEzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "trailerURL": "https://www.youtube.com/watch?v=k-2VgJ2fVXc",
+      "description": "A 17-year-old girl uses reverse psychology to get her kidnapper to set her free. When she returns home, the only person who believes her story is a veteran detective who realizes she was taken by a notorious serial killer.",
+      "id": "3"
+    },
+    {
+      "title": "Interstellar 2021",
+      "genre": "science-fiction",
+      "country": "USA",
+      "director": "Christopher Nolan",
+      "ageRestriction": "14",
+      "poster": "./assets/media/interstallar.jpg",
+      "trailerURL": "https://www.youtube.com/watch?v=2LqzF5WauAw",
+      "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+      "id": "4"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "ebilovva",
+      "fullname": "aytac ebilova",
+      "password": "Admin123",
+      "isAdmin": false,
+      "favorites": []
+    },
+    {
+      "id": "aeb6",
+      "username": "newilugex",
+      "fullName": "Maxwell Hatfield",
+      "password": "Pa$$w0rd!",
+      "email": "zuzem@mailinator.com",
+      "isAdmin": false
+    },
+    {
+      "id": "3806",
+      "username": "aytac",
+      "fullName": "ebilova",
+      "password": "salam123",
+      "email": "zoviru@mailinator.com",
+      "isAdmin": false
+    },
+    {
+      "id": "9387",
+      "username": "aytac",
+      "fullName": "Melinda Franco",
+      "password": "aytac123",
+      "email": "qoxa@mailinator.com",
+      "isAdmin": true
+    },
+    {
+      "id": "bcf1",
+      "username": "aytac",
+      "fullName": "Melinda Franco",
+      "password": "alma123",
+      "email": "qoxa@mailinator.com",
+      "isAdmin": true
+    },
+    {
+      "id": "ffde",
+      "username": "aytac",
+      "fullName": "Melinda Franco",
+      "password": "alma123",
+      "email": "qoxa@mailinator.com",
+      "isAdmin": true
+    },
+    {
+      "id": "72bd",
+      "username": "xobifikygi",
+      "fullName": "Emerald Livingston",
+      "password": "Pa$$w0rd!",
+      "email": "tomoh@mailinator.com",
+      "isAdmin": false
+    },
+    {
+      "id": "c43e",
+      "username": "aytac",
+      "fullName": "aytac ebilova",
+      "password": "salam123",
+      "email": "ebilove796@gmail.com",
+      "isAdmin": true
+    },
+    {
+      "id": "7409",
+      "username": "aytac",
+      "fullName": "aytac ebilova",
+      "password": "salam123",
+      "email": "ebilove796@gmail.com",
+      "isAdmin": true
+    },
+    {
+      "id": "9448",
+      "username": "aytac",
+      "fullName": "aytac ebilova",
+      "password": "salam123",
+      "email": "ebilove796@gmail.com",
+      "isAdmin": true
+    },
+    {
+      "id": "a7d9",
+      "username": "leman",
+      "fullName": "lemamsasj",
+      "password": "salam123",
+      "email": "ebilove796@gmail.com",
+      "isAdmin": true
+    },
+    {
+      "id": "a583",
+      "username": "byrimeliwo",
+      "fullName": "Desirae Chandler",
+      "password": "Pa$$w0rd!",
+      "email": "seroribi@mailinator.com",
+      "isAdmin": true
+    },
+    {
+      "id": "e461",
+      "username": "supucyhany",
+      "fullName": "Kiayada Avila",
+      "password": "Pa$$w0rd!",
+      "email": "basigytuz@mailinator.com",
+      "isAdmin": false
+    },
+    {
+      "id": "aebf",
+      "username": "aytac",
+      "fullName": "Melinda Franco",
+      "password": "salam123",
+      "email": "zoviru@mailinator.com",
+      "isAdmin": true
+    },
+    {
+      "id": "2d2a",
+      "username": "aytac",
+      "fullName": "Melinda Franco",
+      "password": "12345",
+      "email": "zoviru@mailinator.com",
+      "isAdmin": true
+    }
+  ]
+}

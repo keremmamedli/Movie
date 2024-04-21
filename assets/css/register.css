@@ -1,0 +1,39 @@
+
+.form-check {
+    margin-bottom: 20px;
+}
+
+.btn {
+    display: block;
+    width: 30%;
+    padding: 10px;
+    border: none;
+    background-color: #dc3545;
+    color: #fff;
+    cursor: pointer;
+    margin: 0 auto;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#register-form{
+    width: 35%;
+    padding: 20px 0;
+    
+}
+#register-form form{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 6px;
+    width: 100%;
+    padding: 50px 30px;
+}
+#register-form form input{
+    margin-bottom: 14px;
+}
+.error {
+    color: red;
+    font-size: 0.8rem;
+    height: 20px;
+}
